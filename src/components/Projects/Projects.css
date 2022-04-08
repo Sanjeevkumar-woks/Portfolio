@@ -1,0 +1,96 @@
+.work {
+    /* background: #010124; */
+    background: linear-gradient(to bottom, #000031, #00002c);
+    padding: 2rem 3%;
+  }
+  .work h2 {
+    color: #fff;
+    padding: 1rem;
+  }
+  .work .heading span {
+    color: rgb(255, 230, 0);
+  }
+  .work .box-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    flex-wrap: wrap;
+    gap: 1.8rem;
+  }
+  .work .box-container .box {
+    border-radius: 0.5rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+    position: relative;
+    overflow: hidden;
+    height: 20rem;
+    width: 30rem;
+  }
+  .work .box-container .box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+  .work .box-container .box .content {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 80%;
+    left: 0;
+    background: linear-gradient(to bottom, #57059e, #4a00e0);
+    display: flex;
+    flex-direction: column;
+    opacity: 0.8;
+  }
+  .work .box-container .box .content .tag {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 4.5rem;
+    width: 100%;
+    padding-left: 1rem;
+    background: #ffd900;
+  }
+  .work .box-container .box .content .tag h3 {
+    font-size: 1.5rem;
+  }
+  .work .box-container .box:hover .content {
+    top: 20%;
+  }
+  .work .desc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .work .desc p {
+    font-size: 1rem;
+    margin: 10px;
+  }
+  .work .desc  h3{
+    font-size: 1.5rem;
+    margin: 5px 10px;
+  }
+  .btns{
+      display: flex;
+      justify-content: space-around;
+  }
+  @media screen and (max-width: 600px) {
+    .work{
+        padding: 0px;
+    }
+    .work .container {
+      padding: 0;
+      margin: 0;
+    }
+    .work .box-container {
+      grid-template-columns: repeat(1, 1fr);
+      margin: 0rem;
+      padding: 0.2rem 0.2rem 0.2rem 0.2rem;
+      gap: 1rem;
+    }
+    .work .box-container {
+      margin-top: 5px;
+      width: 100%;
+      justify-items: center;
+    }
+  }
+  /* work section ends */
