@@ -27,7 +27,7 @@
   .work .box-container .box img {
     height: 100%;
     width: 100%;
-    object-fit: cover;
+    object-fit: contain;
   }
   .work .box-container .box .content {
     height: 100%;
@@ -38,7 +38,7 @@
     background: linear-gradient(to bottom, #57059e, #4a00e0);
     display: flex;
     flex-direction: column;
-    opacity: 0.8;
+    opacity: 0.9;
   }
   .work .box-container .box .content .tag {
     display: flex;
@@ -81,10 +81,14 @@
       padding: 0;
       margin: 0;
     }
+    .work .box-container .box{
+      height: 20rem;
+      width: 24rem;
+    }
     .work .box-container {
       grid-template-columns: repeat(1, 1fr);
       margin: 0rem;
-      padding: 0.2rem 0.2rem 0.2rem 0.2rem;
+      padding: 0rem;
       gap: 1rem;
     }
     .work .box-container {

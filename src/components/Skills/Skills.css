@@ -59,15 +59,19 @@
       padding: 0;
       margin: 0;
     }
+    .skills .container .bar{
+      padding: 0px;
+    }
     .skills .container .row {
       grid-template-columns: repeat(2, 1fr);
-      margin: 1rem;
-      padding: 2rem 0.2rem 2rem 0.2rem;
-      gap: 1rem;
+      margin: 0rem;
+      padding: 0px;
+      gap: 0.5rem;
     }
     .skills .container {
       margin-top: 5px;
       width: 100%;
+      
     }
   }
   /* skills media queries ends*/

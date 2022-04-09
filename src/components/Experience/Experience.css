@@ -112,8 +112,8 @@
     }
     .experience .container {
       width: 100%;
-      padding-left: 4.4rem;
-      padding-right: 2rem;
+      padding-left: 2.2rem;
+      padding-right: 3rem;
     }
     .experience .container::after {
       font-size: 2.2rem;
