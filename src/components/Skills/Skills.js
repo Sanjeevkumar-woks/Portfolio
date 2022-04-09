@@ -4,6 +4,7 @@ import skills from './skills.json'
 import LaptopMacIcon from '@mui/icons-material/LaptopMac';
 import AOS from "aos";
 import "aos/dist/aos.css";
+import { Paper } from '@mui/material';
 
 
 
@@ -13,7 +14,7 @@ export default function Skills() {
     AOS.refresh();
   }, []);
   return (
-    <section className="skills" id="skills">
+    <Paper className="skills" id="skills" elevation={20} sx={{borderRadius:"0.5px"}}>
 
     <h2 className="heading"><LaptopMacIcon fontSize='large'/> <sup>Skills & <span>Abilities</span></sup></h2>
 
@@ -27,12 +28,9 @@ export default function Skills() {
                     </div>
                 </div> 
               ))
-
-              }
-         
-            
+              }         
       </div>
 </div>
-</section>
+</Paper>
   )
 }

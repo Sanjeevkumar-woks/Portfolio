@@ -5,17 +5,14 @@
   right: 0;
   z-index: 1000;
   display: flex;
-  overflow: hidden;
+  overflow:hidden;
   align-items: center;
   justify-content: space-between;
-  padding: 0 10%;
+  padding: 0 5%;
   background-color: #fff;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.3);
 }
-.logoimg{
-  height: 80px;
-  width: 80px;
-}
+
 
 .heading {
   color: rgb(32, 32, 32);

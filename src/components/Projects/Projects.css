@@ -12,6 +12,7 @@
   }
   .work .box-container {
     display: grid;
+    background: linear-gradient(to bottom, #000031, #00002c);
     grid-template-columns: repeat(2, 1fr);
     flex-wrap: wrap;
     gap: 1.8rem;

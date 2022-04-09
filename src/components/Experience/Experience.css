@@ -1,6 +1,7 @@
 /* experience section starts */
 .experience{
     padding: 1rem 9%;
+    border-radius: 0px;
 }
 .experience .timeline {
     position: relative;
@@ -16,7 +17,8 @@
     bottom: 0;
     left: 50%;
     margin-left: -3px;
-    z-index: -2;
+    z-index: 0;
+    opacity: 0.3;
   }
   .experience .container {
     padding: 10px 40px;

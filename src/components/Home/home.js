@@ -8,6 +8,7 @@ import LogoDevIcon from '@mui/icons-material/LogoDev';
 import TelegramIcon from '@mui/icons-material/Telegram';
 import { init } from "ityped";
 import { useEffect, useRef } from "react";
+import { Paper } from '@mui/material';
 
 
 export  function Home() {
@@ -21,7 +22,8 @@ export  function Home() {
       });
     }, []);
   return (
-    <div className="home" id="home">
+   
+      <Paper className="home" id="home" elevation={20} sx={{borderRadius:"0.5px"}}>
     <div  className="content">
     <h2>Hi There,<br/> I'm <span>Sanjeev</span></h2>
     <p>i am into <span  ref={textRef}></span></p>
@@ -29,10 +31,10 @@ export  function Home() {
         <ul className="social-icons">
           <li><a className="linkedin" aria-label="LinkedIn" href="https://www.linkedin.com/in/sanjeevkumar-managutti-34187a207/"rel='noreferrer' target="_blank"><LinkedInIcon/></a></li> 
           <li><a className="github" aria-label="GitHub" href="https://github.com/jigar-sable" rel='noreferrer'target="_blank"><GitHubIcon/></a></li>
-          <li><a class="twitter" aria-label="Twitter" href="https://twitter.com/jigar_sable" rel='noreferrer' target="_blank"><TwitterIcon/></a></li>
-          <li><a class="telegram" aria-label="Telegram" href="https://t.me/lifecode5" rel='noreferrer' target="_blank"><TelegramIcon/></a></li>
-          <li><a class="instagram" aria-label="Instagram" href="https://www.instagram.com/jigarsable.dev"><InstagramIcon/></a></li>
-          <li><a class="dev" aria-label="Dev" href="https://dev.to/jigarsable" rel='noreferrer' target="_blank"><LogoDevIcon/></a></li>
+          <li><a className="twitter" aria-label="Twitter" href="https://twitter.com/jigar_sable" rel='noreferrer' target="_blank"><TwitterIcon/></a></li>
+          <li><a className="telegram" aria-label="Telegram" href="https://t.me/lifecode5" rel='noreferrer' target="_blank"><TelegramIcon/></a></li>
+          <li><a className="instagram" aria-label="Instagram" href="https://www.instagram.com/jigarsable.dev"><InstagramIcon/></a></li>
+          <li><a className="dev" aria-label="Dev" href="https://dev.to/jigarsable" rel='noreferrer' target="_blank"><LogoDevIcon/></a></li>
         </ul>
       </div>
     </div>
@@ -40,7 +42,7 @@ export  function Home() {
 <div  className="image">
     <img draggable="false" className="tilt" src="https://raw.githubusercontent.com/jigar-sable/Portfolio-Website/main/assets/images/hero.png" alt=""/>
 </div>
+</Paper>
 
-</div>
   )
 }

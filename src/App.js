@@ -6,20 +6,36 @@ import Skills from './components/Skills/Skills';
 import Projects from './components/Projects/Projects';
 import Experience from './components/Experience/Experience';
 import Footer from './components/Footer/Footer';
+import { Button, createTheme} from '@mui/material';
+import LightModeIcon from '@mui/icons-material/LightMode';
+import DarkModeIcon from '@mui/icons-material/DarkMode';
+import { ThemeProvider } from '@emotion/react';
+import { useState } from 'react';
+import Contact from './Contact/Contact';
 
 
 
 function App() {
+  const [mode,setMode]=useState("light");
+
+  const theme = createTheme({
+    palette: {
+      mode: mode,
+    },
+  });
   
   return (
     <div>
-    <Menu/>
+    <ThemeProvider theme={theme}>
+    <Menu button={<Button onClick={()=>setMode(mode==='dark'?'light':'dark')}>{mode==='dark'?<LightModeIcon/>:<DarkModeIcon/>}</Button>}/>
     <Home/>
     <About/>
     <Skills/>
     <Projects/>
     <Experience/>
+    <Contact/>
     <Footer/>
+    </ThemeProvider>
     </div>
   );
 }

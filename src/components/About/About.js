@@ -5,6 +5,7 @@ import React, { useEffect } from 'react'
 import './About.css'
 import AOS from "aos";
 import "aos/dist/aos.css";
+import { Paper } from '@mui/material';
 
 
 export default function About() {
@@ -14,7 +15,8 @@ export default function About() {
   }, []);
 
   return (
-    <div className="about" id='about' >
+   
+      <Paper className="about" id='about' elevation={20} sx={{borderRadius:"0.5px"}} >
     <h2 className="heading"><AccountCircleIcon fontSize='large'/> <sup>About <span>Me</span></sup></h2>
     
     <div className="row">
@@ -52,6 +54,6 @@ export default function About() {
         </div>
     </div>
     </div>
-</div>
+    </Paper>
   )
 }
