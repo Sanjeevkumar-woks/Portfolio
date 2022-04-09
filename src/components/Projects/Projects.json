@@ -1,31 +1,31 @@
 [
     {
       "name": "Portfolio",
-      "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+      "desc": "Full-Stack Portfolio Using Reactjs, Its the one your are in.",
       "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/project4.png?raw=true",
-      "category": "mern",
+      "category": "React",
       "links": {
-        "view": "https://instagrammern.herokuapp.com/",
-        "code": "https://github.com/jigar-sable/instagram-mern"
+        "view": "https://sanjeevkumarsportfolio.netlify.app/",
+        "code": "https://github.com/Sanjeevkumar-woks/Portfolio"
       }
     },
     {
       "name": "YouTube MERN",
-      "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+      "desc": "Full-Stack Youtube with Admin Dashboard. MERN Stack WebApp, ready to use for business.",
       "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/project3.png?raw=true",
       "category": "mern",
       "links": {
-        "view": "https://flipkartweb.herokuapp.com/",
-        "code": "https://github.com/jigar-sable/flipkart-mern"
+        "view": "#home",
+        "code": "#home"
       }
     },{
         "name": "Weather Forcasting",
-        "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+        "desc": "A Basic FrontEnd App.",
         "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/project2.png?raw=true",
-        "category": "mern",
+        "category": "HTML,CSS,Jquery and weather public Api",
         "links": {
-          "view": "https://flipkartweb.herokuapp.com/",
-          "code": "https://github.com/jigar-sable/flipkart-mern"
+          "view": "https://sanjeev-weather-forecast.netlify.app/",
+          "code": "https://github.com/Sanjeevkumar-woks/Weather-Forecast"
         }
       },{
         "name": "Tic-Tac-Toe",
@@ -33,8 +33,8 @@
         "image": "https://raw.githubusercontent.com/Sanjeevkumar-woks/Portfolio/master/src/components/Projects/project1.png",
         "category": "React",
         "links": {
-          "view": "https://flipkartweb.herokuapp.com/",
-          "code": "https://github.com/jigar-sable/flipkart-mern"
+          "view": "https://spiffy-starlight-54d8ff.netlify.app//",
+          "code": "https://github.com/Sanjeevkumar-woks/tic-tac-toe"
         }
       }
   ]

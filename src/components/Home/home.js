@@ -30,11 +30,11 @@ export  function Home() {
     <div className="socials">
         <ul className="social-icons">
           <li><a className="linkedin" aria-label="LinkedIn" href="https://www.linkedin.com/in/sanjeevkumar-managutti-34187a207/"rel='noreferrer' target="_blank"><LinkedInIcon/></a></li> 
-          <li><a className="github" aria-label="GitHub" href="https://github.com/jigar-sable" rel='noreferrer'target="_blank"><GitHubIcon/></a></li>
-          <li><a className="twitter" aria-label="Twitter" href="https://twitter.com/jigar_sable" rel='noreferrer' target="_blank"><TwitterIcon/></a></li>
-          <li><a className="telegram" aria-label="Telegram" href="https://t.me/lifecode5" rel='noreferrer' target="_blank"><TelegramIcon/></a></li>
-          <li><a className="instagram" aria-label="Instagram" href="https://www.instagram.com/jigarsable.dev"><InstagramIcon/></a></li>
-          <li><a className="dev" aria-label="Dev" href="https://dev.to/jigarsable" rel='noreferrer' target="_blank"><LogoDevIcon/></a></li>
+          <li><a className="github" aria-label="GitHub" href="https://github.com/Sanjeevkumar-woks" rel='noreferrer'target="_blank"><GitHubIcon/></a></li>
+          <li><a className="twitter" aria-label="Twitter" href="#home" rel='noreferrer' target="_blank"><TwitterIcon/></a></li>
+          <li><a className="telegram" aria-label="Telegram" href="#home" rel='noreferrer' target="_blank"><TelegramIcon/></a></li>
+          <li><a className="instagram" aria-label="Instagram" href="#home"><InstagramIcon/></a></li>
+          <li><a className="dev" aria-label="Dev" href="#home" rel='noreferrer' target="_blank"><LogoDevIcon/></a></li>
         </ul>
       </div>
     </div>
