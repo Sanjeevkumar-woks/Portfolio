@@ -11,7 +11,8 @@ import LightModeIcon from '@mui/icons-material/LightMode';
 import DarkModeIcon from '@mui/icons-material/DarkMode';
 import { ThemeProvider } from '@emotion/react';
 import { useState } from 'react';
-import Contact from './Contact/Contact';
+import Contact from './components/Contact/Contact';
+
 
 
 
