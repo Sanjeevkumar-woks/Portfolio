@@ -1,14 +1,12 @@
 import React from 'react';
 import './menu.css'
 import FlutterDashIcon from '@mui/icons-material/FlutterDash';
-import { AppBar, Paper } from '@mui/material';
 export default function Menu({ button }) {
     return (
         
     <div className="header" elevation={20}>
         
         <a href="/" className="logo"><FlutterDashIcon fontSize='large'/>Sanjeev</a>
-        <div id="menu"></div>
         <div className="navbar">
             <ul>
             <li><a href="#home">Home</a></li>

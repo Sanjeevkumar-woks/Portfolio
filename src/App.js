@@ -12,6 +12,7 @@ import DarkModeIcon from '@mui/icons-material/DarkMode';
 import { ThemeProvider } from '@emotion/react';
 import { useState } from 'react';
 import Contact from './components/Contact/Contact';
+import  NavBar  from './Navbar';
 
 
 
@@ -26,18 +27,17 @@ function App() {
   });
   
   return (
-    <div>
     <ThemeProvider theme={theme}>
-    <Menu button={<Button onClick={()=>setMode(mode==='dark'?'light':'dark')}>{mode==='dark'?<LightModeIcon/>:<DarkModeIcon/>}</Button>}/>
+     {/* <Menu button={<Button onClick={()=>setMode(mode==='dark'?'light':'dark')}>{mode==='dark'?<LightModeIcon/>:<DarkModeIcon/>}</Button>}/> */}
+     <NavBar button={<Button onClick={()=>setMode(mode==='dark'?'light':'dark')}>{mode==='dark'?<LightModeIcon/>:<DarkModeIcon/>}</Button>}/> 
     <Home/>
     <About/>
     <Skills/>
     <Projects/>
     <Experience/>
     <Contact/>
-    <Footer/>
+    <Footer/> 
     </ThemeProvider>
-    </div>
   );
 }
 
