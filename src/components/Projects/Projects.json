@@ -19,13 +19,13 @@
         "code": "#home"
       }
     },{
-        "name": "Weather Forcasting",
-        "desc": "A Basic FrontEnd App.",
-        "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/project2.png?raw=true",
-        "category": "HTML,CSS,Jquery and weather public Api",
+        "name": "Resume Generator",
+        "desc": "A Basic FrontEnd React app.",
+        "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/project21.png?raw=true",
+        "category": "Reactjs",
         "links": {
           "view": "https://sanjeev-weather-forecast.netlify.app/",
-          "code": "https://github.com/Sanjeevkumar-woks/Weather-Forecast"
+          "code": "https://github.com/Sanjeevkumar-woks/resumegenerator"
         }
       },{
         "name": "Tic-Tac-Toe",
