@@ -5,7 +5,7 @@
       "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/project4.png?raw=true",
       "category": "React",
       "links": {
-        "view": "https://sanjeevkumarsportfolio.netlify.app/",
+        "view": "#home",
         "code": "https://github.com/Sanjeevkumar-woks/Portfolio"
       }
     },
