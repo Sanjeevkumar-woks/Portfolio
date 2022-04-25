@@ -22,7 +22,7 @@
     {
       "name": "BookmyShow",
       "desc": "Full-Stack Bookmyshow App with Admin Dashboard. MERN Stack WebApp.",
-      "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/project3.png?raw=true",
+      "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/project5.png?raw=true",
       "category": "MERN",
       "links": {
         "view": "https://guvi-hackathon-2-sanjeev.netlify.app/",
@@ -35,7 +35,7 @@
         "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/project21.png?raw=true",
         "category": "Reactjs",
         "links": {
-          "view": "https://sanjeev-weather-forecast.netlify.app/",
+          "view": "https://resumes-generator.netlify.app/",
           "code": "https://github.com/Sanjeevkumar-woks/resumegenerator"
         }
       },{
