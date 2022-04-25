@@ -13,12 +13,23 @@
       "name": "YouTube MERN",
       "desc": "Full-Stack Youtube with Admin Dashboard. MERN Stack WebApp, ready to use for business.",
       "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/project3.png?raw=true",
-      "category": "mern",
+      "category": "MERN",
       "links": {
         "view": "#home",
         "code": "#home"
       }
-    },{
+    },
+    {
+      "name": "BookmyShow",
+      "desc": "Full-Stack Bookmyshow App with Admin Dashboard. MERN Stack WebApp.",
+      "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/project3.png?raw=true",
+      "category": "MERN",
+      "links": {
+        "view": "https://guvi-hackathon-2-sanjeev.netlify.app/",
+        "code": "https://github.com/Sanjeevkumar-woks/bookmyshow"
+      }
+    },
+    {
         "name": "Resume Generator",
         "desc": "A Basic FrontEnd React app.",
         "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/project21.png?raw=true",
