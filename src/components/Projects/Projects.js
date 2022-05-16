@@ -29,9 +29,9 @@ export default function Projects() {
         <div className="desc">
           <p>{desc}</p>
           <h3>{category}</h3>
-          <div className="btns">
-           <Button variant="contained"><a href={links.view} rel='noreferrer'  target="_blank"><RemoveRedEyeIcon fontSize='large'/></a></Button> 
-           <Button variant="contained"><a href={links.code} rel='noreferrer' className="btn" target="_blank"><CodeIcon fontSize='large'/><sup></sup></a></Button> 
+          <div className="projectbtns">
+           <Button variant="contained" color="success"><a href={links.view} rel='noreferrer'  target="_blank"><RemoveRedEyeIcon fontSize='large' /></a></Button> 
+           <Button variant="contained"color="success"><a href={links.code} rel='noreferrer' className="btn" target="_blank"><CodeIcon fontSize='large'/><sup></sup></a></Button> 
           </div>
         </div>
       </div>

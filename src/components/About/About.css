@@ -74,7 +74,9 @@
 .button-areas button:hover {
   background: #9681f2f5;
 }
-
+.button-areas button a{
+  color: #fff;
+}
 /* contact section media queries starts */
 @media (max-width: 900px) {
   .contact {
