@@ -1,35 +1,54 @@
 [{"name":"Flipkart",
   "desc":"Fullstack Flipkart with Admin Dashboard and Paytm payment gateway",
-  "image":"",
+  "image":"https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/Project01.png?raw=true",
   "category":"Fullstack-MERN",
   "links":{
     "view":"https://flipkartwebs.herokuapp.com/",
     "code":"https://github.com/Sanjeevkumar-woks/flipkart-mern"
   }
 },
-{"name":"",
-  "desc":"",
-  "image":"",
-  "category":"",
+{"name":"React Projects",
+  "desc":"Fullstack Projects Dashboard Which is the collection of React projects with Admin Controle",
+  "image":"https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/Project02.png?raw=true",
+  "category":"Fullstack-MERN",
   "links":{
-    "view":"",
-    "code":""
+    "view":"https://sanjeev-reactprojects.netlify.app/",
+    "code":"https://github.com/Sanjeevkumar-woks/reactprojectss"
   }
 },
-  {
-    "name": "BookmyShow",
-    "desc": "Full-Stack Bookmyshow App with Admin Dashboard. MERN Stack WebApp.",
-    "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/project5.png?raw=true",
-    "category": "MERN",
-    "links": {
-      "view": "https://guvi-hackathon-2-sanjeev.netlify.app/",
-      "code": "https://github.com/Sanjeevkumar-woks/bookmyshow"
-    }
-  },
-  {
+{"name":"JavaScript Projects Website",
+  "desc":"This Website is specially Built To showcase All Major JavaScript Projects",
+  "image":"https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/Project03.png?raw=true",
+  "category":"Javascript",
+  "links":{
+    "view":"https://sanjeev-javascript-projects.netlify.app/",
+    "code":"https://github.com/Sanjeevkumar-woks/JavaScript-Projects"
+  }
+},{
+  "name":"Bubloo Chat",
+  "desc":"Chatting App built using React and Firebase. Its a Live Chat APP  with google Auth",
+  "Image":"https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/project3.png",
+  "category": "Firebase",
+  "links":{
+    "view":"https://bubloo2716.web.app/",
+    "code":"https://github.com/Sanjeevkumar-woks/Webchat"
+  }
+
+},
+{
+  "name": "YouTube MERN",
+  "desc": "Full-Stack Youtube with Admin Dashboard. MERN Stack WebApp.",
+  "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/Project04.png?raw=true",
+  "category": "Fullstack-MERN",
+  "links": {
+    "view": "https://sanjeev-youtube.netlify.app/",
+    "code": "https://github.com/Sanjeevkumar-woks/youtube"
+  }
+},
+ {
     "name": "Resume Generator",
     "desc": "A Basic FrontEnd React app.",
-    "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/project21.png?raw=true",
+    "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/Project05.png?raw=true",
     "category": "Reactjs",
     "links": {
       "view": "https://resumes-generator.netlify.app/",
@@ -37,23 +56,33 @@
     }
   },
   {
-    "name": "YouTube MERN",
-    "desc": "Full-Stack Youtube with Admin Dashboard. MERN Stack WebApp, ready to use for business.",
-    "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/project3.png?raw=true",
+    "name": "BookmyShow",
+    "desc": "Full-Stack Bookmyshow App with Admin Dashboard. MERN Stack WebApp.",
+    "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/Project06.png?raw=true",
     "category": "MERN",
     "links": {
-      "view": "#home",
-      "code": "#home"
+      "view": "https://guvi-hackathon-2-sanjeev.netlify.app/",
+      "code": "https://github.com/Sanjeevkumar-woks/bookmyshow"
     }
   },
+ 
   {
     "name": "Tic-Tac-Toe",
     "desc": "A Basic React Application, demonstrating React Hooks",
-    "image": "https://raw.githubusercontent.com/Sanjeevkumar-woks/Portfolio/master/src/components/Projects/project1.png",
+    "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/Project07.png?raw=true",
     "category": "React",
     "links": {
       "view": "https://spiffy-starlight-54d8ff.netlify.app//",
       "code": "https://github.com/Sanjeevkumar-woks/tic-tac-toe"
+    }
+  },{
+    "name":"Weather App",
+    "desc":"A Basic Javascript App using Weather Api",
+    "image":"https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/Project08.png?raw=true",
+    "category":"Javascript",
+    "links":{
+      "view":"https://sanjeev-weather-forecast.netlify.app/",
+      "code":"https://github.com/Sanjeevkumar-woks/Weather-Forecast"
     }
   }
 ]
