@@ -12,7 +12,7 @@
   "image":"https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/Project02.png?raw=true",
   "category":"Fullstack-MERN",
   "links":{
-    "view":"https://sanjeev-reactprojects.netlify.app/",
+    "view":"https://sanjeev-react-projects.netlify.app/",
     "code":"https://github.com/Sanjeevkumar-woks/reactprojectss"
   }
 },
@@ -27,7 +27,7 @@
 },{
   "name":"Bubloo Chat",
   "desc":"Chatting App built using React and Firebase. Its a Live Chat APP  with google Auth",
-  "Image":"https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/project3.png",
+  "image":"https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/Projects03.png?raw=true",
   "category": "Firebase",
   "links":{
     "view":"https://bubloo2716.web.app/",

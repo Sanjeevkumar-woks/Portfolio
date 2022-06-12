@@ -78,5 +78,9 @@
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    } 
+    } ,
+    {
+        "name":"NextJs",
+        "icon":"https://img.icons8.com/fluency-systems-regular/48/nextjs.png"  
+    }
 ]
