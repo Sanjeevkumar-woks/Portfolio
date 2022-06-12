@@ -3,7 +3,7 @@ import './Experience.css'
 import AOS from "aos";
 import "aos/dist/aos.css";
 import WorkIcon from '@mui/icons-material/Work';
-import { Card, Paper } from '@mui/material';
+import { Paper } from '@mui/material';
 
 export default function Experience() {
     useEffect(() => {

@@ -1,5 +1,4 @@
 import './App.css';
-import Menu from './components/Menu/menu';
 import { Home } from './components/Home/home';
 import About from './components/About/About';
 import Skills from './components/Skills/Skills';
