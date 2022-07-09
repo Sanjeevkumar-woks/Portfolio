@@ -29,7 +29,7 @@
 {
   "name": "Piza Delivary",
   "desc": "Full-Stack Piza Delivary App with Admin Dashboard. MERN Stack WebApp.",
-  "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/Projects09.png",
+  "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/Projects09.png?raw=true",
   "category": "Fullstack-MERN",
   "links": {
     "view": "https://hello-pizza-name.netlify.app/",
