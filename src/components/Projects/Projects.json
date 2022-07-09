@@ -1,5 +1,5 @@
 [{"name":"Flipkart",
-  "desc":"Fullstack Flipkart with Admin Dashboard and Paytm payment gateway",
+  "desc":"Fullstack Flipkart with  Paytm payment gateway",
   "image":"https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/Project01.png?raw=true",
   "category":"Fullstack-MERN",
   "links":{
@@ -24,6 +24,16 @@
   "links": {
     "view": "https://sanjeev-youtube.netlify.app/",
     "code": "https://github.com/Sanjeevkumar-woks/youtube"
+  }
+},
+{
+  "name": "Piza Delivary",
+  "desc": "Full-Stack Piza Delivary App with Admin Dashboard. MERN Stack WebApp.",
+  "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/Project06.png?raw=true",
+  "category": "Fullstack-MERN",
+  "links": {
+    "view": "https://hello-pizza-name.netlify.app/",
+    "code": "https://github.com/Sanjeevkumar-woks/piza-frontend"
   }
 },
 {

@@ -3,6 +3,7 @@ import './Experience.css'
 import AOS from "aos";
 import "aos/dist/aos.css";
 import WorkIcon from '@mui/icons-material/Work';
+import MenuBookIcon from '@mui/icons-material/MenuBook';
 import { Paper } from '@mui/material';
 
 export default function Experience() {
@@ -14,7 +15,7 @@ export default function Experience() {
 
 <Paper className="experience" id="experience" elevation={20} sx={{borderRadius:"0.5px"}}>
 
-  <h2 className="heading"><WorkIcon fontSize='large'/> Experience </h2>
+  <h2 className="heading"><WorkIcon fontSize='large'/> <sup>Experience</sup> </h2>
 
   <div className="timeline">
 
@@ -41,11 +42,13 @@ export default function Experience() {
         </div>
       </div>
     </div>
+<hr/>
+<h2 className="heading"><MenuBookIcon fontSize='large'/><sup>Learnings</sup> </h2>
 
     <div data-aos="fade-right" className="container right">
       <div className="content">
         <div className="tag">
-          <h2>MERN Stack Development</h2>
+          <h3>MERN Stack Development</h3>
         </div>
         <div className="desc">
             <h3>Full-Stack Development</h3>
@@ -53,6 +56,7 @@ export default function Experience() {
         </div>
       </div>
     </div>
+    
 
   </div>
 

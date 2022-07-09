@@ -3,6 +3,14 @@
     padding: 1rem 9%;
     border-radius: 0px;
 }
+.experience .heading sup{
+    font-size: 2rem;
+    font-weight: 500;
+    font-family: "Poppins";
+    margin-left: 0.5rem;
+  color: purple;
+
+}
 .experience .timeline {
     position: relative;
     max-width: 1200px;
