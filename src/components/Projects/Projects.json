@@ -3,7 +3,11 @@
   "image":"https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/Project01.png?raw=true",
   "category":"Fullstack-MERN",
   "links":{
+<<<<<<< HEAD
     "view":"http://flipkartwebs.herokuapp.com/",
+=======
+    "view":"https://flipkartwebs.netlify.app/",
+>>>>>>> 8e103fa4d9748e53070acd6a5d7afd6f67ab38b8
     "code":"https://github.com/Sanjeevkumar-woks/flipkart-mern"
   }
 },
