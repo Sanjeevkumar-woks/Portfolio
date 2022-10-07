@@ -52,7 +52,7 @@ export default function Experience() {
         </div>
         <div className="desc">
             <h3>Full-Stack Development</h3>
-            <p>Bootcamp-2021-Present</p>
+            <p>Bootcamp-2022-Present</p>
         </div>
       </div>
     </div>

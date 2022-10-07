@@ -47,7 +47,7 @@ export default function About() {
         </div>
         <div data-aos="zoom-in" className="resumebtn button-areas button">
         <Button variant="contained" size="large">
-          <a target='_blank' rel="noreferrer" href="https://drive.google.com/file/d/13nepwv_IiRwArH_NYe6jbUVRudeI8gbl/view?usp=sharing" underline="none">
+          <a target='_blank' rel="noreferrer" href="https://drive.google.com/file/d/1aVyiBL3V-bs1klgnIjI1dYCcA37BmZ4J/view?usp=sharing" underline="none">
           <SimCardDownloadIcon/>Resume</a>
         </Button>
         </div>
