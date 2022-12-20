@@ -7,13 +7,13 @@
     "code":"https://github.com/Sanjeevkumar-woks/flipkart-mern"
   }
 },
-{"name":"Cown-Cloathing",
+{"name":"Animal-Shelter",
 "desc":"Fullstack",
 "image":"https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/projects10.png?raw=true",
 "category":"Under Production......",
 "links":{
-  "view":"https://crown-cloathing-sanjeev.netlify.app/",
-  "code":"https://github.com/Sanjeevkumar-woks/crown_cloathing"
+  "view":"https://sanjeev-animal-shelter.netlify.app/",
+  "code":"https://github.com/Sanjeevkumar-woks/animal_shelter"
 }
 },
 {"name":"React Projects",
