@@ -7,14 +7,15 @@
     "code":"https://github.com/Sanjeevkumar-woks/flipkart-mern"
   }
 },
-{"name":"Animal-Shelter",
-"desc":"Fullstack",
-"image":"https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/projects10.png?raw=true",
-"category":"Under Production......",
-"links":{
-  "view":"https://sanjeev-animal-shelter.netlify.app/",
-  "code":"https://github.com/Sanjeevkumar-woks/animal_shelter"
-}
+{
+  "name": "BookmyShow",
+  "desc": "Full-Stack Bookmyshow App with Admin Dashboard. MERN Stack WebApp.",
+  "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/Project06.png?raw=true",
+  "category": "Fullstack-MERN",
+  "links": {
+    "view": "https://guvi-hackathon-2-sanjeev.netlify.app/",
+    "code": "https://github.com/Sanjeevkumar-woks/bookmyshow"
+  }
 },
 {"name":"React Projects",
   "desc":"Fullstack Projects Dashboard Which is the collection of React projects with Admin Controle",
@@ -43,16 +44,6 @@
   "links": {
     "view": "https://sanjeevs-pizza-app.netlify.app/",
     "code": "https://github.com/Sanjeevkumar-woks/piza-delivary"
-  }
-},
-{
-  "name": "BookmyShow",
-  "desc": "Full-Stack Bookmyshow App with Admin Dashboard. MERN Stack WebApp.",
-  "image": "https://github.com/Sanjeevkumar-woks/Portfolio/blob/master/src/components/Projects/Project06.png?raw=true",
-  "category": "Fullstack-MERN",
-  "links": {
-    "view": "https://guvi-hackathon-2-sanjeev.netlify.app/",
-    "code": "https://github.com/Sanjeevkumar-woks/bookmyshow"
   }
 },
 {
